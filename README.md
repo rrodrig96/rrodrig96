@@ -1,4 +1,5 @@
 PT/BR
+
 Olá, me chamo Rodrigo Lopes Junior, tenho 28 anos e moro no interior de São Paulo em uma cidade chamada Leme!
 
 Estou à procura de expandir meu conhecimento nas linguagens de programação Python, C#, Java Script e HTML.
@@ -10,6 +11,7 @@ Estou procurando emprego como desenvolvedor Júnior nas linguagens Python ou C#,
 Você pode entrar em contato comigo pelo e-mail: roodrigol@hotmail.com
 ----------------------------------------------------------------------------------------------------------------------------------------
 EN/US
+
 Hello, my name is Rodrigo Lopes Junior, I'm 28 years old and I live in the interior of São Paulo in a city called Leme!
 
 I'm looking to expand my knowledge of the programming languages ​​Python, C#, Java Script and HTML.
