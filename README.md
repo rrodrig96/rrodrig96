@@ -2,9 +2,9 @@ PT/BR
 
 Olá, me chamo Rodrigo Lopes Junior, tenho 28 anos e moro no interior de São Paulo em uma cidade chamada Leme!
 
-Estou à procura de expandir meu conhecimento nas linguagens de programação Python, C#, Java Script e HTML.
+Estou à procura de expandir meu conhecimento nas linguagens de programação Python, C#, Java Script, SQL...
 
-No momento estou estudando desenvolvimentos de jogos na linguagem Python e também Data Science. 
+No momento estou estudando Data Science em Python, Web Crawler e SQL
 
 Estou procurando emprego como desenvolvedor Júnior nas linguagens Python ou C#, que são as linguagens que mais tenho contato no momento.
 
