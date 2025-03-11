@@ -12,12 +12,12 @@ Você pode entrar em contato comigo pelo e-mail: roodrigol@hotmail.com
 ----------------------------------------------------------------------------------------------------------------------------------------
 EN/US
 
-Hello, my name is Rodrigo Lopes Junior, I'm 28 years old and I live in the interior of São Paulo in a city called Leme!
+Hello, my name is Rodrigo Lopes Junior, I am 28 years old and I live in the countryside of São Paulo, in a city called Leme!
 
-I'm looking to expand my knowledge of the programming languages ​​Python, C#, Java Script and HTML.
+I am looking to expand my knowledge in programming languages such as Python, C#, JavaScript, SQL...
 
-I am currently studying game development in the Python language and also Data Science. 
+At the moment, I am studying Data Science in Python, Web Crawling, and SQL.
 
-I'm looking for a job as a Junior developer in Python or C#, which are the languages ​​I'm most familiar with at the moment.
+I am looking for a job as a Junior Developer in Python or C#, which are the languages I am most familiar with at the moment.
 
-You can contact me by email: roodrigol@hotmail.com
+You can contact me via email: roodrigol@hotmail.com
